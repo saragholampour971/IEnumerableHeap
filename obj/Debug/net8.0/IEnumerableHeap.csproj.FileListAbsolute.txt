@@ -1,0 +1,14 @@
+F:\hamkaran\IEnumerableHeap\bin\Debug\net8.0\IEnumerableHeap.exe
+F:\hamkaran\IEnumerableHeap\bin\Debug\net8.0\IEnumerableHeap.deps.json
+F:\hamkaran\IEnumerableHeap\bin\Debug\net8.0\IEnumerableHeap.runtimeconfig.json
+F:\hamkaran\IEnumerableHeap\bin\Debug\net8.0\IEnumerableHeap.dll
+F:\hamkaran\IEnumerableHeap\bin\Debug\net8.0\IEnumerableHeap.pdb
+F:\hamkaran\IEnumerableHeap\obj\Debug\net8.0\IEnumerableHeap.GeneratedMSBuildEditorConfig.editorconfig
+F:\hamkaran\IEnumerableHeap\obj\Debug\net8.0\IEnumerableHeap.AssemblyInfoInputs.cache
+F:\hamkaran\IEnumerableHeap\obj\Debug\net8.0\IEnumerableHeap.AssemblyInfo.cs
+F:\hamkaran\IEnumerableHeap\obj\Debug\net8.0\IEnumerableHeap.csproj.CoreCompileInputs.cache
+F:\hamkaran\IEnumerableHeap\obj\Debug\net8.0\IEnumerableHeap.dll
+F:\hamkaran\IEnumerableHeap\obj\Debug\net8.0\refint\IEnumerableHeap.dll
+F:\hamkaran\IEnumerableHeap\obj\Debug\net8.0\IEnumerableHeap.pdb
+F:\hamkaran\IEnumerableHeap\obj\Debug\net8.0\IEnumerableHeap.genruntimeconfig.cache
+F:\hamkaran\IEnumerableHeap\obj\Debug\net8.0\ref\IEnumerableHeap.dll
