@@ -26,8 +26,8 @@ class Program
 
         MyTask mostPriorityTask = taskHeap.PeekLeastPriorityTask(0);
         MyTask leastPriorityTask = taskHeap.PeekMostPriorityTask();
-        Console.WriteLine($"most Priority MyTask: {mostPriorityTask.Title}");
-        Console.WriteLine($"least Priority MyTask: {leastPriorityTask.Title}");
+        Console.WriteLine($"most Priority MyTask: {mostPriorityTask.Title}"); // it will be task 2 
+        Console.WriteLine($"least Priority MyTask: {leastPriorityTask.Title}"); // it will be task 1
 
     }
 }
